@@ -1,5 +1,4 @@
-# btc-donation-help
-<!DOCTYPE html>
+# btc-donation-help<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -48,4 +47,12 @@
     <h1>Support Me with Bitcoin</h1>
     <p>I was recently scammed online and lost a significant part of my savings. I'm trying to recover and move forward, and any help would mean a great deal to me.</p>
 
-    <p><strong>
+    <p><strong>Bitcoin Address:</strong></p>
+    <div class="address">bc1q2nwjn9yz89hyljsqux0rvnrwaew5qn7lepxz77</div>
+
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1q2nwjn9yz89hyljsqux0rvnrwaew5qn7lepxz77&size=200x200" alt="Bitcoin QR Code">
+
+    <p class="note">Even a small donation is appreciated. Thank you for your kindness and support.</p>
+  </div>
+</body>
+</html>
